@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/conta-banco/conta-banco.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" filepath="$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo-banco-digital/poo-banco-digital.iml" filepath="$PROJECT_DIR$/poo-banco-digital/poo-banco-digital.iml" />
       <module fileurl="file://$PROJECT_DIR$/poo-iphone/poo-iphone.iml" filepath="$PROJECT_DIR$/poo-iphone/poo-iphone.iml" />
     </modules>
   </component>
